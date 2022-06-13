@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&lines=I'm+Danilo+Alves;Software+engineer;Data+Scientist;Coffee+Lover+%3C3" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&lines=I'm+Danilo+Alves;Software+engineer;Data+Scientist;Coffee+Lover+%3C3"</a>
 </div>
 
 <h2> Hi there from anywhere in the world 👋 </h2>
