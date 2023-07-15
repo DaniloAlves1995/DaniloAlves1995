@@ -12,7 +12,7 @@
 
 I am a passionate technology professional with a mixed profile of software engineer + data scientist. Why? because I love them both! ❤️
 - 🔭 I’m currently working as a Software Engineer on a ecosystem that unifies critical communications for public safety and security.
-- 🌱 I'm currently preparing for an AWS certification.
+- 🌱 I'm currently learning Angular.
 - 💬 I can help you with Python, Java, SQL and DS/ML/DL implementations.
 - ⚡ Besides the code: I volunteer for an NGO that helps transform the lives of young people and another that helps Pets! 🐱🐶
 - 📫 How to reach me: 
